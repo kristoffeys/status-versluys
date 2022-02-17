@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1275,
-    "timeDay": 1071,
-    "timeWeek": 1172,
-    "timeMonth": 1243,
-    "timeYear": 1275,
+    "time": 1279,
+    "timeDay": 1404,
+    "timeWeek": 1217,
+    "timeMonth": 1232,
+    "timeYear": 1279,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/oosteroever.be",
     "slug": "oosteroever",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 3604,
-    "timeDay": 3634,
-    "timeWeek": 3805,
-    "timeMonth": 3629,
-    "timeYear": 3604,
-    "dailyMinutesDown": {
-      "2022-02-16": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 3617,
+    "timeDay": 3528,
+    "timeWeek": 3901,
+    "timeMonth": 3632,
+    "timeYear": 3617,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ensor Tower",
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 621,
-    "timeDay": 541,
-    "timeWeek": 580,
-    "timeMonth": 611,
+    "timeDay": 612,
+    "timeWeek": 591,
+    "timeMonth": 605,
     "timeYear": 621,
     "dailyMinutesDown": {}
   }
