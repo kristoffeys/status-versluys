@@ -22,9 +22,9 @@
     "url": "https://oosteroever.be/",
     "icon": "https://favicons.githubusercontent.com/oosteroever.be",
     "slug": "oosteroever",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,14 +33,16 @@
     "timeWeek": 3261,
     "timeMonth": 3596,
     "timeYear": 3550,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-28": 0
+    }
   },
   {
     "name": "Ensor Tower",
     "url": "https://www.ensortower.be/.well-known/test.html",
     "icon": "https://favicons.githubusercontent.com/www.ensortower.be",
     "slug": "ensor-tower",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +53,8 @@
     "timeWeek": 630,
     "timeMonth": 615,
     "timeYear": 619,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-28": 0
+    }
   }
 ]
