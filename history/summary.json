@@ -22,7 +22,7 @@
     "url": "https://oosteroever.be/",
     "icon": "https://favicons.githubusercontent.com/oosteroever.be",
     "slug": "oosteroever",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1814,
     "timeMonth": 2998,
     "timeYear": 3272,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-10": 0
+    }
   },
   {
     "name": "Ensor Tower",
