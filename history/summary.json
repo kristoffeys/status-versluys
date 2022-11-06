@@ -4,10 +4,10 @@
     "url": "https://groepversluys.be/",
     "icon": "https://icons.duckduckgo.com/ip3/groepversluys.be.ico",
     "slug": "groep-versluys",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1339,
@@ -15,17 +15,19 @@
     "timeWeek": 2495,
     "timeMonth": 1632,
     "timeYear": 1339,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-06": 1
+    }
   },
   {
     "name": "Oosteroever",
     "url": "https://oosteroever.be/",
     "icon": "https://icons.duckduckgo.com/ip3/oosteroever.be.ico",
     "slug": "oosteroever",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.69%",
     "time": 3425,
@@ -34,6 +36,7 @@
     "timeMonth": 4493,
     "timeYear": 3425,
     "dailyMinutesDown": {
+      "2022-11-06": 1,
       "2022-10-09": 48,
       "2022-09-07": 53,
       "2022-07-08": 33,
@@ -46,9 +49,9 @@
     "url": "https://www.ensortower.be/.well-known/test.html",
     "icon": "https://icons.duckduckgo.com/ip3/www.ensortower.be.ico",
     "slug": "ensor-tower",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -57,6 +60,8 @@
     "timeWeek": 726,
     "timeMonth": 650,
     "timeYear": 635,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-06": 0
+    }
   }
 ]
